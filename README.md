@@ -1,7 +1,11 @@
-Build a Shopping Cart
+# Build a Shopping Cart
 
-Step 1: git clone https://github.com/kaisertuan98/build-a-shopping-cart-udacity.git
-Step 2:npm install
-Step 3:npm run start
+## How to start
 
-TuanNNA
+Clone the repository, change directories, and use NPM to install the dependencies.
+
+- $ git clone https://github.com/kaisertuan98/build-a-shopping-cart-udacity.git
+- $ npm install
+- $ npm run start
+
+
